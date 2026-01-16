@@ -72,7 +72,7 @@ int	main(int ac, char **argv)
 	arg_error(ac, &error);
 	format_error(argv[1], &error);
 	if (ac == 3)
-		format_error(argv[1], &error);
+		format_error(argv[2], &error);
 	if (error)
 		return (1);
 	size = atoi(argv[1]);
