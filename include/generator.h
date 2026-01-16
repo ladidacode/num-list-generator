@@ -7,6 +7,6 @@
 
 void	arg_error(int ac, int *error);
 void	format_error(char *arg, int *error);
-void	write_str(char *str, int fd);
+void	write_str(char *str, int fd, int *error);
 
 #endif
