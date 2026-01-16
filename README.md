@@ -2,8 +2,8 @@ A simple Number generator in c using a fixed string size
 useful for generating wordlist of numbers
 
  It uses 2 paramaters.
-   1) The minimum size of the string
-   2) The maximum size of the string (optional)
+   1)  The minimum size of the string
+   2)  The maximum size of the string (optional)
 
 
 example usage:
@@ -25,5 +25,11 @@ to compile (make the program):
 
 
 Potential update :
-	1) options managed with "-" for example -s for size
-    2) A full on string generator using any characters of your choosing.
+	
+1)  Options managed with "-" for example -s for size
+2)  A full on string generator using any characters of your choosing. 
+
+easter egg (how it was used) :
+
+	./generator 4 > otp
+	
