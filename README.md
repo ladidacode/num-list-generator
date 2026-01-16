@@ -25,4 +25,5 @@ to compile (make the program):
 
 
 Potential update :
-    A full on string generator using any characters of your choosing.
+	1) options managed with "-" for example -s for size
+    2) A full on string generator using any characters of your choosing.
