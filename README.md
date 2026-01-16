@@ -4,7 +4,6 @@ useful for generating wordlist of numbers
  It uses 2 paramaters.
    1) The minimum size of the string
    2) The maximum size of the string (optional)
-compiling (to make the program) use "make"
 
 
 example usage:
@@ -20,7 +19,7 @@ best used redirecting to a file:
     ./generator > filename
 then using it with an external tool such as ffuf
 
-to compile:
+to compile (make the program):
 
     make
 
