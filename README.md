@@ -9,10 +9,10 @@ Useful for generating wordlist of numbers
 Example usage:
     
     ./generator 1 2
-Will generate two strings of numbers one ranging from "0" to "9" and the seccond one from "00" to "99"
+Will generate two list of strings of numbers one ranging from "0" to "9" and the seccond one from "00" to "99"
     
     ./generator 2
-Will generate one string of numbers ranging from "00" to "99"
+Will generate one list of string of numbers ranging from "00" to "99"
 
 Best used redirecting to a file:
 
